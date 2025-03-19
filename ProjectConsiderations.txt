@@ -1,0 +1,12 @@
+random quote-generator;
+
+build an asynchronous fetch request to a rest API in order to get the quotes;
+run into the dreaded CORS errors; fix error using a proxy API;
+
+- html considerations
+hero pattern vector background;
+custom google font;
+two bottons new button twitter button, allow to tweet;
+mobile responsive, 
+
+emmet abbreviations;
